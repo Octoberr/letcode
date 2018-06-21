@@ -16,6 +16,7 @@ class Solution:
                 flag = False
                 break
         return flag
+
 if __name__ == '__main__':
     s = Solution()
     b = s.isPalindrome(1000021)

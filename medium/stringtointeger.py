@@ -11,6 +11,7 @@
 输入: "42"
 输出: 42
 """
+
 class Solution:
     # @return an integer
     def atoi(self, str):
