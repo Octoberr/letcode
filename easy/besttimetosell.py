@@ -19,6 +19,7 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 """
 import pysnooper
 
+
 class Solution:
     @pysnooper.snoop()
     def maxProfit(self, prices) -> int:
@@ -35,8 +36,8 @@ class Solution:
 
         return maxprofit
 
+
 if __name__ == '__main__':
     s = Solution()
-    a = s.maxProfit([2,4,1])
+    a = s.maxProfit([2, 4, 1])
     print(a)
-

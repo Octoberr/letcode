@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad98882a-91e8-4cfd-bc43-a1aeb2604305" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/27remove_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/28implement_strstr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/35search_insert_position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/53maximum_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/58Length_of_last_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/66plusone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/besttimetosell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/climbing_stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/besttimetosell.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/besttimetosell.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/easy/besttimetosell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -352,12 +344,12 @@
       <workItem from="1553672624616" duration="1708000" />
       <workItem from="1553754422226" duration="12677000" />
       <workItem from="1554365087585" duration="5474000" />
-      <workItem from="1556000775141" duration="348000" />
+      <workItem from="1556000775141" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20207000" />
+    <option name="totallyTimeSpent" value="20927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -783,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/besttimetosell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
