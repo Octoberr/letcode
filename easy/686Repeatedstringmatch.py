@@ -9,18 +9,17 @@ Note:
 The length of A and B will be between 1 and 10000.
 """
 
-
-from collections import Counter
 import math
+
 
 class Solution:
     def repeatedStringMatch(self, A: str, B: str) -> int:
         if not set(B).issubset(set(A)):
-                return -1
+            return -1
 
         base = math.ceil(len(B) / len(A))
         for i in range(2):
-            if B in A*(base + i):
+            if B in A * (base + i):
                 return base + i
         return -1
 
@@ -29,4 +28,4 @@ if __name__ == '__main__':
     A = 'abcd'
     B = 'cdabcdab'
     s = Solution()
-    print(s.repeatedStringMatch(A,B))
+    print(s.repeatedStringMatch(A, B))
